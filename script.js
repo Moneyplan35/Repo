@@ -1,1 +1,4 @@
-console.log("Welcome to My Website!");
+// script.js
+document.addEventListener("DOMContentLoaded", function() {
+  console.log("Website loaded!");
+});
